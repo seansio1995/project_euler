@@ -33,3 +33,4 @@ public class euler024 {
 	}
 
 }
+//ans:2783915460
